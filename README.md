@@ -19,7 +19,7 @@ How to Run the Program:
 
 1. Ensure you have a C compiler installed like GCC.
 
-2. Download the program file (StudentMarksGradeSystem.c).
+2. Download the program file (studentMarksGradeSystem.c).
 
 3. Compile the program using your C compiler.
 
