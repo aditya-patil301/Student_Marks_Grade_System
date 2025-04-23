@@ -42,7 +42,7 @@ char gradeSet(float average){
     else {
         printf("Fail");
     }
-    // The function does not return a grade value.
+
     return 0;
 }
 
