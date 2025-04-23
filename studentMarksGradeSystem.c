@@ -16,7 +16,7 @@ float calTotal(float marks[], int size) {
     return sum;
 }
 
-// Computes the average given the total marks and number of subjects
+// Calculate the average given the total marks and number of subjects
 
 float avg(float sum, int size){
     float average;
@@ -24,7 +24,7 @@ float avg(float sum, int size){
     return average;
 }
 
-// Prints the grade based on the average marks.
+// Prints the grade based on the average
 
 char gradeSet(float average){
     if(average <= 100 && average > 90) {
@@ -54,7 +54,7 @@ int main(){
     float average;
     char grade;  
 
-    // Message for the user to enter marks for each subject
+    // Message for the user to enter marks 
 
     printf("Enter student's marks in 5 subject: \n");
     for(i = 0; i < size; i++){
@@ -83,7 +83,7 @@ int main(){
     printf("\nAverage Marks: %.2f", average);
     printf("\n");
 
-    // Display the grade based on average marks
+    // Display the grade
 
     grade = gradeSet(average);
 
