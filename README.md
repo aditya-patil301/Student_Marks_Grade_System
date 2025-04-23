@@ -15,7 +15,7 @@ The grades are assigned based on the average marks as follows:
 Average ≤ 45 : Fail
 
 
-How to Run the Program
+How to Run the Program:
 
 1. Ensure you have a C compiler installed like GCC.
 
